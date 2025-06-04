@@ -1,4 +1,5 @@
-# 👋 你好，我是 zhongyuan @shangguancaiyun
+# 👋 你好，我是 zhongyuan 
+@shangguancaiyun
 
 - 👀 兴趣方向：编程、开源、人工智能、自动化工具、数据分析
 - 🌱 目前在学习：前端开发、Python、机器学习
